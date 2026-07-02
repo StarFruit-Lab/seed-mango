@@ -12,7 +12,7 @@
 Tired of fragile 3D-printed plastics or dropping $500+ on a single industrial servo? We were too. 
 We built the Seed Mango to bridge the gap: delivering a true quasi-direct drive (QDD) experience with industrial-grade metal durability, priced for the open-source community.
 
-![Uploading C1.png…]()
+<img width="1526" height="609" alt="C1" src="https://github.com/user-attachments/assets/98ee1898-a61b-4e5d-87eb-f56a4bf3406a" />
 
 
 ## ⚙️ Core Specifications
