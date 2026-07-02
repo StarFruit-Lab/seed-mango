@@ -2,8 +2,8 @@
 
 **The first "Seed" from StarFruit Lab. A drop-in, full-metal actuator built for the next generation of embodied AI and legged robotics (ALOHA, Berkeley Lite, and beyond).**
 
-[![Join the Waitlist]( https://starfruit-actuator.subscribepage.io) 
-[![YouTube](https://www.youtube.com/@StarFruitRobotics)
+👉[Join the Waitlist]( https://starfruit-actuator.subscribepage.io) 
+👉[YouTube](https://www.youtube.com/@StarFruitRobotics)
 
 ---
 
