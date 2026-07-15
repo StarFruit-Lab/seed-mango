@@ -1,0 +1,4 @@
+# Seed Mango (FC-30) — Python dependencies
+# Python 3.10+ recommended
+
+odrive==0.5.4
